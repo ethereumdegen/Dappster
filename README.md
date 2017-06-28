@@ -7,7 +7,7 @@ Like Napster... but with the Blockchain
 
 ### The Premise
 
-  Traditional filesharing platforms have failed and been censored because they are centralized.  Now, with the network of trust and value called Ethereum, the community can come together and build a decentralized premium file sharing service that rewards seeders using micropayments.  This would ideally use some form of payment channels.
+  Traditional filesharing platforms have failed and been censored because they are centralized (one that comes to mind rhymes with Firate Fay.)  Now, with the network of trust and value called Ethereum, the community can come together and build a decentralized premium file sharing service that rewards seeders using micropayments.  This would ideally use some form of payment channels.
   
   This specification calls for a native software application (probably in Electron so as to be simple and cross-platform) that has an integrated light Ethereum wallet (eth-lightwallet) and integrated torrenting system similar to Transmission.  There will be an integrated browser that will allow the user to search (by name) through a list of 'magnet links' that had been stored to a Solidity Smart Contract by other members of the community.  We can refer to these as 'Magnet Listings.'
   
