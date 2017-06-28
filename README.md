@@ -39,3 +39,5 @@ A magnet listing will be an information store on the Ethereum blockchain that co
  
  ### Other Thoughts
  This would need to be a native software application so that it can be censorship resistant.  All state-data would be saved on the blockchain and the code would be open source so the data and code would both be impervious to attack.  Please feel free to expand upon these ideas. 
+ 
+ Anonimity could be added by integrating ZKSnarks and a VPN service such as Mysterium.  
